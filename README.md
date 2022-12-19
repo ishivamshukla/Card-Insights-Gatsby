@@ -35,8 +35,18 @@ Card Insights in Gatsby and using schema.org and ARIA
 
 <br>
 
+---
+
+## How the website looks like
+
+
+![Desktop](./src/images/demo.png)
+
+<br/>
+
 
 ---
+
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
