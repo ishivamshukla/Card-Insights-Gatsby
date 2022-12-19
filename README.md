@@ -1,3 +1,42 @@
+# Card Insights in Gatsby
+
+> ## [Shivam Shukla](https://ishivamshukla.in)
+
+</br>
+Card Insights in Gatsby and using schema.org and ARIA
+
+---
+## Using Technology -
+ 
+
+ -  Gatsby
+ -  HTML
+ -  CSS
+ -  TypeScript
+ -  ReactJS
+ -  Schema.org
+ -  ARIA
+ -  Meta Tag
+
+---
+
+
+## Layout
+
+ Card 
+ 
+ Grid Card
+
+
+<br/>
+
+### Checkout the live website [here]().
+
+
+<br>
+
+
+---
 <p align="center">
   <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
